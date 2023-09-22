@@ -1,2 +1,2 @@
 # Kumeleme-Analizi
-Kümeleme Analizi için uzun bir sunum dosyası hazırladım.
+Kümeleme Analizi ile ilgili uzun bir sunum dosyası hazırladım.
